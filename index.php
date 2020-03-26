@@ -16,11 +16,15 @@
 			$v_int1 = 1;
 			$v_int2 = 2;
 			$v_intsum  = $v_int1 + $v_int2;
-			<br>
-			echo $v_intsum;
 
-			</br>
+			
+
 			?>
+			<br>
+			<?php
+			echo $v_intsum;
+			?>
+			</br>
 		</h1>
 	</center>
 
